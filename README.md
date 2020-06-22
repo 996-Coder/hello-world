@@ -1,2 +1,3 @@
 # hello-world
-github hello-world project
+
+It is a practice project according to github official tutorial
